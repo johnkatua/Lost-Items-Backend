@@ -1,6 +1,6 @@
 # Lost Items
 
-This is a web app developed by John Katua.
+This is a web app developed by [John Katua](https://github.com/johnkatua).
 
 This project is to help people who have either lost an item or found an item which does not belong to them, you can search through the app to see if you can find you item
 
