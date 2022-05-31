@@ -16,7 +16,9 @@ This project is to help people who have either lost an item or found an item whi
 
 You can install all dependencies for this app by running the command:
 
-npm install
+  ```
+  npm install
+  ```
 
 Running the application
 
@@ -24,20 +26,17 @@ Running the application
 
   ```
   https://powerful-tundra-02406.herokuapp.com/
-  
   ```
 
   - You can run the command below to start the project locally after cloning it:
 
   ```
-
   npm run start:dev
-
   ```
 
 ## The Server
 
-This is a web server which currently has 5 endpoints
+This is a web server which currently has 10 endpoints
 
   | Endpoint  | Details |
   | -------------------------- | ---------------------------------------------- |
