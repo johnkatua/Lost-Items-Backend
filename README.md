@@ -43,3 +43,12 @@ This is a web server which currently has 5 endpoints
   | -------------------------- | ---------------------------------------------- |
   | /auth/login                | User can login through endpoint |
   | /auth/register             | User can register through this endpoint |
+  | /items/get-single-item/id         | get single item endpoint  |
+  | /items/get-all-items              | get all items endpoint  |
+  | /items/create | Add new item endpoint |
+  | /items/update-item/id | update a single item endpoint |
+  | /items/get-items-by-category/id | get items by category |
+  | /delete/id | delete an item endpoint |
+  | /genre | get all categories |
+  | /genre/create | create category endpoint |
+
