@@ -22,16 +22,16 @@ Running the application
 
   - You can run the hosted app from heroku with the command below:
 
-  - https://powerful-tundra-02406.herokuapp.com/
+  `https://powerful-tundra-02406.herokuapp.com/`
 
   - You can run the command below to start the project locally after cloning it:
 
-  - npm run start:dev
+  `npm run start:dev`
 
 ## The Server
 
 This is a web server which currently has 5 endpoints
 
-  |--------------------------|----------------------------------------------|
+  | -------------------------- | ---------------------------------------------- |
 
-  /auth/login                | User login endpoint
+  | /auth/login                | User login endpoint |
