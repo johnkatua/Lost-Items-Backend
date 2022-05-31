@@ -32,6 +32,6 @@ Running the application
 
 This is a web server which currently has 5 endpoints
 
+  | Endpoint  | Details |
   | -------------------------- | ---------------------------------------------- |
-
   | /auth/login                | User login endpoint |
