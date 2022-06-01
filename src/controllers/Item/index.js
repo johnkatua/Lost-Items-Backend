@@ -21,6 +21,7 @@ const getItems = async (req, res) => {
         userId: item.userId._id,
         genreId: item.genreId._id,
         userPhone: item.userId.phone,
+        userEmail: item.userId.email
       };
     });
     return res.status(200).send({
